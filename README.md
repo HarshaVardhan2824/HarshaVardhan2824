@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Harsha Vardhan 👋
 
-<!--
-**HarshaVardhan2824/HarshaVardhan2824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Data Analyst** focused on turning data into insights through analysis and visualization.
 
-Here are some ideas to get you started:
+## Skills
+Excel | SQL | Power BI | Tableau | Python | DAX | Power Query
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Adventure Works Sales Analysis (Excel, SQL, Power BI, Tableau)
+- Finance Dashboard
+- Data Analysis with Python
+
+## Currently Learning
+Machine Learning | Advanced Data Analytics
+
+## Connect With Me
+LinkedIn: www.linkedin.com/in/harsha-vardha-b52515372  
+Email: harshavardhan.karapa@gmail.com
