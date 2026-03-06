@@ -1,4 +1,4 @@
-<img width="822" height="367" alt="image" src="https://github.com/user-attachments/assets/b51dfd1a-5f5e-43cd-84ca-2f23b7d80a0c" />
+<img src="https://readme-img.onrender.com/api/banner?username=HarshaVardhan2824&template=modern1&bg=dark&font=poppins" alt="HarshaVardhan2824's GitHub Stats" />
 
 
 # 💫 About Me
