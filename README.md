@@ -14,5 +14,5 @@ Excel | SQL | Power BI | Tableau | Python | DAX | Power Query
 Machine Learning | Advanced Data Analytics
 
 ## Connect With Me
-LinkedIn: www.linkedin.com/in/harsha-vardha-b52515372  
+LinkedIn: https://www.linkedin.com/in/harsha-vardhan-b52515372/
 Email: harshavardhan.karapa@gmail.com
