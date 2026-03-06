@@ -1,9 +1,5 @@
-# Hi, I'm Harsha Vardhan 👋
-### Aspiring Data Analyst
+<img width="822" height="367" alt="image" src="https://github.com/user-attachments/assets/b51dfd1a-5f5e-43cd-84ca-2f23b7d80a0c" />
 
-Passionate about transforming raw data into meaningful insights through **data analysis, visualization, and dashboard development**.
-
----
 
 # 💫 About Me
 
